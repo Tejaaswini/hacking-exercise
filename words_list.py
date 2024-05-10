@@ -28,9 +28,9 @@ def write_words_to_file(words, filename):
 
 def main():
     urls = [
-        'http://192.168.112.128/index.php',
-        'http://192.168.112.128/greatmenu.html',
-        'http://192.168.112.128/commentforcarl.php'
+        'http://192.168.112.130/index.php',
+        'http://192.168.112.130/greatmenu.html',
+        'http://192.168.112.130/commentforcarl.php'
     ]
     all_words = []
     
